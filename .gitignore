@@ -1,0 +1,18 @@
+# Private credentials
+freebox_token.json
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
