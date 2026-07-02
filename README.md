@@ -2,6 +2,10 @@
 
 Un exportateur Prometheus léger en Python pour surveiller votre **Freebox** (Révolution, Delta, Pop, Ultra, etc.) en temps réel dans **Grafana**.
 
+![Aperçu du Tableau de Bord - Trafic et Ligne](images/dashboard_traffic.png)
+![Aperçu du Tableau de Bord - Wi-Fi](images/dashboard_wifi.png)
+![Aperçu du Tableau de Bord - Système et Switch](images/dashboard_system.png)
+
 ---
 
 ## 📈 Métriques récoltées
